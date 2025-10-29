@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Luis 👋
 
-<!--
-**luifer-villalba/luifer-villalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer building production-ready systems with **FastAPI** and **Python**.
 
-Here are some ideas to get you started:
+🔧 **Current Project**: [CashPilot](https://github.com/luifer-villalba/cash-pilot) - Business cash register reconciliation system  
+💼 **Open to**: Remote Python/FastAPI opportunities  
+🌍 **Based in**: Asunción, Paraguay
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+`Python` `FastAPI` `PostgreSQL` `Docker` `SQLAlchemy` `Alembic` `pytest` `async/await`
+
+### What I Build
+- RESTful APIs with clean architecture
+- Async database operations with SQLAlchemy
+- Docker-based development environments
+- Comprehensive test coverage with pytest
+
+📫 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/luis-fernando-villalba/)
