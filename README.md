@@ -25,4 +25,4 @@ Remote Python/FastAPI opportunities | Full-time, immediate
 - Technical roles: Full Stack Developer, Team Lead, Project Manager
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/luis-fernando-villalba/) · [Email](mailto:villalba.luifer@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/luis-fernando-villalba/)
