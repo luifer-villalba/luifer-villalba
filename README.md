@@ -7,7 +7,7 @@ Backend developer building production-ready systems with **FastAPI**, **Django**
 🌍 **Based in**: Asunción, Paraguay
 
 ### Tech Stack
-`Python` `FastAPI` `Django` `PostgreSQL` `Docker` `SQLAlchemy` `Alembic` `pytest` `async/await`
+`Python` `FastAPI` `Django` `PostgreSQL` `Docker` `SQLAlchemy` `Alembic` `pytest`
 
 ### What I Build
 - RESTful APIs with clean architecture
