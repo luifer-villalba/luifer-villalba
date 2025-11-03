@@ -1,6 +1,6 @@
 ## Hi, I'm Luis 👋
 
-Backend developer building production-ready systems with **FastAPI**, **Django**, and **Python**.
+Backend developer building production-ready systems with **Django**, **FastAPI**, and **Python**.
 
 🔧 **Current Project**: [CashPilot](https://github.com/luifer-villalba/cash-pilot) - Business cash register reconciliation system  
 💼 **Open to**: Remote Python/FastAPI opportunities  
