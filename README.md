@@ -7,9 +7,6 @@ Building production systems with Python, Django, FastAPI, and PostgreSQL. Teachi
 **[CashPilot](https://github.com/luifer-villalba/cash-pilot)** - Cash register reconciliation system  
 FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker · pytest · CI/CD
 
-**[CashPilot Telegram Bot](https://github.com/luifer-villalba/cash-pilot-telegram-bot)** - Telegram client for CashPilot  
-python-telegram-bot · aiohttp · async Python · Docker
-
 ### 💼 Open To
 Remote Python/FastAPI opportunities | Full-time, immediate
 
