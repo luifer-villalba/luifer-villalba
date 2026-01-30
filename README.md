@@ -1,6 +1,6 @@
 ## Backend Software Engineer | Luis F. Villalba 👋
 
-Building production systems with Python, Django, FastAPI, and PostgreSQL. Teaching software engineering at university. Currently developing CashPilot — a business cash reconciliation platform.
+Building production systems with Python, Django, FastAPI, and PostgreSQL. Teaching software engineering at university. Currently developing CashPilot: a business cash reconciliation platform.
 
 ### 🔧 Current Projects
 
