@@ -10,7 +10,7 @@ Building production systems with Python and FastAPI. Teaching software engineeri
 `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `HTMX` `pytest`
 
 **[PharmaBrain](https://github.com/luifer-villalba/pharmabrain)** — Inventory decision engine for pharmacy reorder workflows  
-`FastAPI` `PostgreSQL` `Jinja2` `HTMX` `pandas` `Railway`
+`FastAPI` `PostgreSQL` `Jinja2` `HTMX` `pandas` `Railway` · Built with AI-assisted SDLC
 
 > Both projects are in active production use.
 
